@@ -1,6 +1,5 @@
 # 로또의 최 순위와 최저 순위
 # https://programmers.co.kr/learn/courses/30/lessons/77484?language=python3
-# It hasn't been resolved yet.
 
 def solution(lottos, win_nums):
     answer = [0,0]
