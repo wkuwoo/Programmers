@@ -55,11 +55,18 @@ print(('*'*a + '\n')*b)
 
 #### 5. 12937_solution.py - 짝수와 홀수
 https://programmers.co.kr/learn/courses/30/lessons/12937
-
+```python
+# Best Solution
+```
 
 #### 6. 12933_solution.py - 정수 내림차순으로 배치하기
 https://programmers.co.kr/learn/courses/30/lessons/12933]
-
+```python
+# Best Solution
+```
 
 #### 7. 12948_solution.py - 핸드폰 번호 가리기
 https://programmers.co.kr/learn/courses/30/lessons/12948
+```python
+# Best Solution
+```
