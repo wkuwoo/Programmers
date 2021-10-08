@@ -45,10 +45,17 @@ def solution(s):
     return int(answer)
 ```
 
-#### 4. 12969_solution.py
+#### 4. 12969_solution.py - 직사각형 별찍기
 https://programmers.co.kr/learn/courses/30/lessons/12969
 ```python
 # Best Solution
 a, b = map(int, input().strip().split(' '))
 print(('*'*a + '\n')*b)
 ```
+
+#### 5. 12937_solution.py - 짝수와 홀수
+https://programmers.co.kr/learn/courses/30/lessons/12937
+
+
+#### 6. 12933_solution.py - 정수 내림차순으로 배치하기
+# https://programmers.co.kr/learn/courses/30/lessons/12933
