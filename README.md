@@ -118,6 +118,7 @@ def getDayName(a,b):
 ```
 
 ### 9. 12982_solution.py - 예산
+https://programmers.co.kr/learn/courses/30/lessons/12982/solution_groups?language=python3
 
 ```python
 # Best Solution
