@@ -11,4 +11,5 @@ def solution(N, stages):
             users -= fail_user
             print("3.",users)
         else: fail[stage] = 0
+            
     return sorted(fail, key=lambda x: fail[x], reverse=True)
