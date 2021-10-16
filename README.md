@@ -128,4 +128,8 @@ def solution(d, budget):
         d.pop()
     return len(d)
 ```
-
+#### 10. 42889_solution.py - 실패율
+https://programmers.co.kr/learn/courses/30/lessons/42889
+```python
+# Best Solution
+```
