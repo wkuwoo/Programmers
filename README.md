@@ -116,3 +116,15 @@ def getDayName(a,b):
     else:answer="THU"
     return answer
 ```
+
+### 9. 12982_solution.py - 예산
+
+```python
+# Best Solution
+def solution(d, budget):
+    d.sort()
+    while budget < sum(d):
+        d.pop()
+    return len(d)
+```
+
